@@ -1,0 +1,25 @@
+{
+  "name": "nw-mysql",
+  "version": "1.0.0",
+  "description": "A MySQL client made of NW.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxd3vin/nw-mysql.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxd3vin/nw-mysql/issues"
+  },
+  "homepage": "https://github.com/xxd3vin/nw-mysql#readme",
+  "dependencies": {
+    "debug": "^4.0.1",
+    "mysql": "^2.16.0",
+    "nw": "^0.33.3"
+  }
+}
